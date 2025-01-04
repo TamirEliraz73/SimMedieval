@@ -17,6 +17,7 @@ namespace world {
         class Movement;
     }
     namespace sim {
+        class SimObject;
         namespace agent {
             class Agent;
 
